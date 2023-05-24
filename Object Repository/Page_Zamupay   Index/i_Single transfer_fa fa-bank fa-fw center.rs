@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Single transfer_fa fa-bank fa-fw center</name>
+   <tag></tag>
+   <elementGuidId>26c5acbe-4076-48fe-a66f-8fcfd99ca8b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-bank.fa-fw.center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div/div/div/div[2]/div/a[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2e1d43c8-74bf-4871-a897-6ce1b9e4a896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-bank fa-fw center</value>
+      <webElementGuid>e987735b-0c01-4a97-8a7a-778b91703c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper   wrapper-body gray-bg dashboard-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 quick-holder&quot;]/div[@class=&quot;ibox float-e-margins card white-bg mb-3&quot;]/div[@class=&quot;ibox-content quick-links mb-2&quot;]/div[@class=&quot;quick-contents&quot;]/a[@class=&quot;col-md-4 mr-2  mb-2 quick-links-card light-green&quot;]/i[@class=&quot;fa fa-bank fa-fw center&quot;]</value>
+      <webElementGuid>1c25b302-cf6e-4bb1-b87a-b0248dadc2cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div/div/div/div[2]/div/a[2]/i</value>
+      <webElementGuid>9e7bdcf9-628c-4548-b4d1-a81a3cb385aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>57b23779-7c82-4e2f-b7d7-531c27e90260</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

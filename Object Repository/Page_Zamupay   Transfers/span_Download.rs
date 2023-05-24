@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Download</name>
+   <tag></tag>
+   <elementGuidId>4bd15d19-3fc0-4d47-930d-ae29464969af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-xs.buttons-collection.dropdown-toggle.downloadBtn.btn-default > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bankTransferGrid_wrapper']/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89ddd2d0-e935-45da-86b9-7a40cb2a1db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Download</value>
+      <webElementGuid>d093aeb3-af6b-43df-847d-925870fcecc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bankTransferGrid_wrapper&quot;)/div[@class=&quot;html5buttons&quot;]/div[@class=&quot;dt-buttons btn-group flex-wrap&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-xs buttons-collection dropdown-toggle downloadBtn btn-default&quot;]/span[1]</value>
+      <webElementGuid>d1490e97-896b-4880-a53c-ad1e9d45d31a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bankTransferGrid_wrapper']/div/div/div/button/span</value>
+      <webElementGuid>532b4462-e496-449a-a754-8859bd11b717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[2]</value>
+      <webElementGuid>0be4da29-0713-4af4-bc97-5400fdcd5399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::span[2]</value>
+      <webElementGuid>3bc34080-cdd4-47de-9bdf-5f5334280761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[1]/preceding::span[2]</value>
+      <webElementGuid>2ab11c2b-4031-4713-8455-149d9f00f8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download']/parent::*</value>
+      <webElementGuid>6e84ef17-3b77-4219-b349-4b3725a90c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>5c42b1c2-e22a-4af1-847a-38508656d3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Download' or . = ' Download')]</value>
+      <webElementGuid>2c06e8a8-84c6-44aa-a03f-bfa147f5ae13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>URA Bill Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>392f02bf-5fcd-4f20-8d92-43710cb7e405</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>8fc17de3-6372-4e76-b98c-5ea7dd2ecfa9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/URAPRNs/URAPRNs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>8fc17de3-6372-4e76-b98c-5ea7dd2ecfa9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PRNs</value>
+      <variableId>80e47ed1-691f-4c65-81fd-e0cffcca48a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null)</defaultValue>
+      <description></description>
+      <id>80e47ed1-691f-4c65-81fd-e0cffcca48a7</id>
+      <masked>false</masked>
+      <name>PRNs</name>
+   </variable>
+</TestCaseEntity>

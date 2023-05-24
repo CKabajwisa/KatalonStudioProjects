@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Money In</name>
+   <tag></tag>
+   <elementGuidId>4c00b1dd-0b0f-4181-b485-65a96262f2d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[4]/div[2]/div/div/div/div/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>288ba2b0-e315-4a35-86f8-a02c889915d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#moneyIn</value>
+      <webElementGuid>324af222-257d-41e6-b717-47c32af593ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-item nav-link</value>
+      <webElementGuid>0ea4e747-80b7-4f73-b79e-a3b1945513be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>eed72b41-5fba-402f-a452-fdf91bdb7cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Money In</value>
+      <webElementGuid>227c7aab-3c36-452e-819d-5b33524c77a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper   wrapper-body gray-bg dashboard-wrapper&quot;]/div[@class=&quot;full-width white-bg ibox mt-4&quot;]/div[@class=&quot;&quot;]/div[@class=&quot;wrapper  animated fadeIn  tabs-wrapper dashboard-tabs&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;tabs-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-item nav-link&quot;]</value>
+      <webElementGuid>f25df293-f15c-438a-a447-f90e643b405d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[4]/div[2]/div/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>06b0ba8c-e23a-47bf-863b-d505e6c52b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Money In')]</value>
+      <webElementGuid>0876c452-e2ca-471b-aa1e-c716ddd61bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Money Out'])[1]/following::a[1]</value>
+      <webElementGuid>a1c9471c-77fc-48c2-be7e-e1bbc5201c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[3]/following::a[2]</value>
+      <webElementGuid>5325d457-0af0-4556-9116-6061104c6278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[4]/preceding::a[1]</value>
+      <webElementGuid>6c1124fc-628a-467e-8738-a1f142ba7a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apr 30'])[1]/preceding::a[1]</value>
+      <webElementGuid>94aa6971-093d-435c-826b-18bc8d3cbad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Money In']/parent::*</value>
+      <webElementGuid>dd5bc530-52a0-4bea-b8cc-f8cebedca8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#moneyIn')]</value>
+      <webElementGuid>8053114d-7af0-4740-beac-3a613859f3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[3]/a</value>
+      <webElementGuid>02655519-c19b-440d-a551-fde307c22d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#moneyIn' and (text() = 'Money In' or . = 'Money In')]</value>
+      <webElementGuid>ed9b9ae9-3cee-473f-9fe8-2bc58e61edf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bank Transfers</name>
+   <tag></tag>
+   <elementGuidId>5d29c4b8-358b-4f93-8b09-3298b9d121da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[3]/div/div[4]/div/div/div/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee5fd21b-c984-481d-8597-414a3f4d222c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#banktransfer</value>
+      <webElementGuid>aa67074d-cecd-4dfe-a09a-ee9e872e264f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-item nav-link</value>
+      <webElementGuid>bd33258f-1007-48f7-8ff1-b90eec771be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>8941ddb5-fb77-41d2-b019-76536c18271d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bank Transfers</value>
+      <webElementGuid>94459761-933c-465c-b62c-97bdc055cc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;main-details-holder col-md-12 transfer-banner&quot;]/div[@class=&quot;wrapper wrapper-content&quot;]/div[@class=&quot;wrapper wrapper-content animated fadeIn  tabs-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;full-width&quot;]/div[@class=&quot;tabs-container&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-item nav-link&quot;]</value>
+      <webElementGuid>8c7fba16-7163-4cff-9aa4-956bbdbac8ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[3]/div/div[4]/div/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>7652c213-04e8-4b55-a07d-1293b3bf9abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bank Transfers')]</value>
+      <webElementGuid>40f1ab9e-f150-41a1-a8fc-c81fdcf493ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Transfers'])[1]/following::a[1]</value>
+      <webElementGuid>61b5a8af-c048-489a-b28e-5199fb85987a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Failed Transfers'])[1]/following::a[2]</value>
+      <webElementGuid>0cfc9cba-3ba9-4bc4-a434-224abbf20e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Transfers'])[1]/preceding::a[1]</value>
+      <webElementGuid>11a3fe5f-2644-4363-971c-e6f64d810cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reversals'])[1]/preceding::a[2]</value>
+      <webElementGuid>36db7bf7-42a9-49f9-a41e-246cf5f17a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Transfers']/parent::*</value>
+      <webElementGuid>411c203d-b3e9-433c-aa85-30e5720d63c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#banktransfer')]</value>
+      <webElementGuid>51458729-48ce-465f-a7e5-a52ed52a1200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]/a</value>
+      <webElementGuid>ddb50bee-3892-4f3c-a955-d7dfd76edcca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#banktransfer' and (text() = ' Bank Transfers' or . = ' Bank Transfers')]</value>
+      <webElementGuid>3cb572fe-964a-4a62-919d-772744c40e12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

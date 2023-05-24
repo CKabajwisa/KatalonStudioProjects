@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_UGANDA</name>
+   <tag></tag>
+   <elementGuidId>ad630b21-b32f-4c79-9a23-46972c6c90b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#uganda > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='uganda']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d5cf13d-838f-437e-bad1-3cf0d8d5bdba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UGANDA  </value>
+      <webElementGuid>9be5fcf2-dd53-454a-96d0-655f2596b7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uganda&quot;)/span[1]</value>
+      <webElementGuid>d3ab4297-2b83-4ffc-b7f6-a67acd710c7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='uganda']/span</value>
+      <webElementGuid>9b58245c-751e-444f-8363-6ef2d9e7f38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login As'])[1]/following::span[4]</value>
+      <webElementGuid>bfe47802-bd9c-4ef0-88cf-4ef57641628a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UGANDA']/parent::*</value>
+      <webElementGuid>b97fe052-9c05-4345-9de7-d4315b86a6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[2]/span</value>
+      <webElementGuid>2e13dc42-74e9-4441-843d-616c5cd88de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'UGANDA  ' or . = 'UGANDA  ')]</value>
+      <webElementGuid>ae06d71d-a3c1-4700-9c3f-a7f9d71d06fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NSSF Bill Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4e704a2-96cb-4198-8d29-97e4a5b91e60</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>042d957a-7959-46c8-be71-515da7596a76</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/NSSFTRNs/NSSFTRNs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>042d957a-7959-46c8-be71-515da7596a76</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>TRNs</value>
+      <variableId>b035cf3d-d791-48e6-9ff5-596ce08fbfd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('NSSFTRNs/NSSFTRNs')</defaultValue>
+      <description></description>
+      <id>b035cf3d-d791-48e6-9ff5-596ce08fbfd0</id>
+      <masked>false</masked>
+      <name>TRNs</name>
+   </variable>
+</TestCaseEntity>
